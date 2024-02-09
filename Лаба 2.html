@@ -1,0 +1,134 @@
+<html>
+<head><title>Гинель</title></head>
+<style>
+mark { 
+  background-color: purple;
+
+}
+</style>
+<body bgcolor = "white">
+<font color = "black"; size = "6">Необходимо предоставить следующие документы:</font>
+<font color = "black"; size = "6">
+<ol>
+<li>паспорт,</li>
+<li>заявление,</li>
+<li>справка о доходах.</li>
+</ol>
+</font>
+<font color = "red"; size = "6"><strong>Необходимо предоставить следующие документы:</strong></font>
+<font color = "black"; size = "6">
+<ul type="circle">
+<li>паспорт,</li>
+<li>заявление,</li>
+<li>справка о доходах.</li>
+</ul>
+</font>
+<font color = "red"; size = "6"><strong>Необходимо предоставить следующие документы:</strong></font>
+<font color = "black"; size = "6">
+<ul type="circle">
+<font color="green"><li>паспорт,</li></font>
+<font color="purple"><li>заявление,</li></font>
+<font color="blue"><li>справка о доходах.</li>
+</ul>
+</font>
+<font color = "black"; size = "6"><strong>Необходимо предоставить следующие документы:</strong></font>
+<dl>
+<dt> <ol><li>паспорт</li></ol>
+<ol type="a">
+<dd> <li>срок годности не менее 3 лет</li>
+</ol>
+<dt><ol type="1" start="2"><li>заявление</li></ol></dt> 
+<ol type="a">
+<dd><li>на имя ректора</li>
+<dd><li>на имя декана</li></dd>
+</ol>   
+<dt><ol type="1" start="3"><li>справку о доходах</li></ol></dt> 
+<ol type="a">
+<dd><li>за полгода</li>
+<dd><li>за последние 3 месяца</li></dd>
+</ol>  
+</dl>
+</font>
+<font color = "black"; size = "6">Необходимо предоставить следующие <u>документы</u>: </font>
+<font color = "black"; size = "6">
+<ul type="square">
+<li>паспорт,</li>
+<li>заявление,</li>
+<li>справка о доходах.</li>
+</ul>
+</font>
+<font color = "black"; size = "6"> <u> Основные рекомендации по осушению болот: </u></font>
+<font color = "black"; size = "6">
+<ol type="i">
+<li>Выбирайте правильное <u>болото</u>. Это самое важное правило, поэтому
+отнеситесь к нему особо внимательно.</li>
+<li>Убедитесь, что в <u>болоте</u> никто не купается.</li>
+<li>Осушайте <u>болото</u> быстро, без колебаний.</li>
+</ol>
+</font>
+<font color = "black"; size = "6"> Оформите список определений:</font>
+<font color = "black"; size = "6">
+<dl>
+<dt><mark>Буква «Ё»<mark>
+<dd>Буква ё пишется в случаях, когда возможно неверное чтение
+или понимание слова (в том числе в именах собственных).
+<br> <br>
+<dt><mark>Местоимение «вы»<mark>
+<dd>Местоимение вы при обращении к посетителям сайта пишется
+со строчной буквы.
+<br> <br>
+<dt><mark>Названия институтов, кафедр, специальностей и направлений</mark>
+<dd>Названия институтов пишутся с прописной буквы. Склоняются.
+<dd>Названия кафедр пишутся без кавычек строчными буквами.
+Склоняются.
+</dl>
+</font>
+<font color = "black"; size = "6"> Оформите список определений:</font>
+<font color = "black"; size = "6">
+<dl>
+<dt><ol type="1" start="1"><li>Акроним «вуз»</li></ol></dt> 
+<dd>- Слово вуз (сокращение от «высшее учебное заведение») пишется строчными буквами. Склоняется.
+<dt><ol type="1" start="2"><li>Слово «онлайн»</li></ol></dt> 
+<dd>- Слово онлайн пишется по-русски, со строчной буквы, без дефиса.
+<dt><ol type="1" start="3"><li>Слово «интернет»</li></ol></dt> 
+<dd>- Слово Интернет пишется по-русски, с прописной буквы, без кавычек. Склоняется.
+</dl>
+</font>
+<font color = "blue"; size = "6"> Пункт 1</font>
+<font color = "blue"; size = "6">
+<dl>
+<dt><ol type="A" start="1"><li>Пункт 1.1</li></ol></dt> 
+<dd>Пункт 1.1.1</dd>
+<dd>Пункт 1.1.2</dd>
+<dd>Пункт 1.1.3</dd>
+</font>
+<font color = "black"; size = "6">
+<dt><ol type="A" start="2"><li>Пункт 1.2</li></ol></dt> 
+<ul type="circle">
+<dd><li>Пункт 1.2.1.</li></dd>
+<dd><li>Пункт 1.2.2.</li></dd>
+</ul> 
+</dl>
+<p>Пункт 2</p>
+<dl>
+<dt><ol type="1" start="2"><li>Пункт 2.1</li></ol></dt> 
+<ol type="I">
+<dd><li>Пункт 2.1.1</li></dd> 
+<dd><li>Пункт 2.1.2</li></dd>
+<dd><li>Пункт 2.1.3</li></dd>
+</ol> 
+</dl>
+<dl>
+<dt><ol type="1" start="3"><li>Пункт 2.1</li></ol></dt> 
+<ul type="round">
+<dd><li>Пункт 2.2.1.</li></dd>
+<dd><li>Пункт 2.2.2.</li></dd> 
+</dl>
+<dl>
+<dt><p>Пункт 3.</p></dt>
+<dd>Определение пункта 3</dd>
+<dd>Другое определение пункта 3</dd>
+</dl>
+</font>
+</body>
+</html>
